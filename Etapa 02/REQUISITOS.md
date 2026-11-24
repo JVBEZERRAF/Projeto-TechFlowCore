@@ -4,7 +4,7 @@
  RF02 - Listagem de Demandas: O sistema deve exibir uma lista organizada de todas as demandas registadas no terminal.   
  RF03 - Busca de Demandas: O sistema deve permitir procurar uma demanda específica com base no seu ID ou título.
  RF04 - Atualização de Status: O sistema deve permitir alterar o status de uma demanda existente (por exemplo, de "Pendente" para "Em Andamento" ou "Concluído").   
- RF05 - Exclusão de Demandas: O sistema deve permitir remover uma demanda do sistema através do seu ID.
+ RF05 - Exclusão de Demandas: O sistema deve permitir remover uma demanda do sistema através do seu ID. 
  RF06 - Consulta de APIs Externas: O sistema deve permitir consultar automaticamente dados de endereço através do ViaCEP e cotações de moedas via AwesomeAPI.   
  
  2. Requisitos Não Funcionais (RNF) — Como o sistema opera (qualidade):
