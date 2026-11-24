@@ -1,4 +1,4 @@
- 1. Requisitos Funcionais (RF) — O que o sistema faz:
+1. Requisitos Funcionais (RF) — O que o sistema faz:
     
  RF01 - Cadastro de Demandas: O sistema deve permitir o registo de novas demandas, solicitando ID único, título, solicitante, prioridade, CEP, cidade e status inicial.
  RF02 - Listagem de Demandas: O sistema deve exibir uma lista organizada de todas as demandas registadas no terminal.   
@@ -6,6 +6,7 @@
  RF04 - Atualização de Status: O sistema deve permitir alterar o status de uma demanda existente (por exemplo, de "Pendente" para "Em Andamento" ou "Concluído").   
  RF05 - Exclusão de Demandas: O sistema deve permitir remover uma demanda do sistema através do seu ID.
  RF06 - Consulta de APIs Externas: O sistema deve permitir consultar automaticamente dados de endereço através do ViaCEP e cotações de moedas via AwesomeAPI.   
+ 
  2. Requisitos Não Funcionais (RNF) — Como o sistema opera (qualidade):
  
  RNF01 - Usabilidade (CLI): O sistema deve possuir uma interface de linha de comando (CLI) intuitiva, com menus claros e fáceis de navegar.   
